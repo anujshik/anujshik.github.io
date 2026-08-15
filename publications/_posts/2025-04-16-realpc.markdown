@@ -4,7 +4,7 @@ date:   2025-06-24 22:21:59 +00:00
 image: /publications/images/realpc2.png
 authors: "Stuti Pathak*, Prashant Kumar*, <strong>Dheeraj Baiju</strong>, Nicholus Mboga, Gunther Steenackers, Rudi Penne"
 venue: "ICCV"
-arxiv: "https://openaccess.thecvf.com/content/ICCV2025/papers/Pathak_Revisiting_Point_Cloud_Completion_Are_We_Ready_For_The_Real-World_ICCV_2025_paper.pdf"
+arxiv: "https://arxiv.org/pdf/2411.17580"
 code: "https://github.com/stutipathak5/Point-Cloud-Completion"
 ---
 Point clouds acquired in constrained, challenging, uncontrolled, and multi-sensor real-world settings are noisy,

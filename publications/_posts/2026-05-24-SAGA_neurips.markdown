@@ -4,7 +4,7 @@ date:   2026-05-24 22:21:59 +00:00
 image: /publications/images/SAGA-neurips-fig.png
 authors: "Shubhang Bhatnagar*, <strong>Dheeraj Baiju*</strong>, Narendra Ahuja."
 venue: "Under Review"
-arxiv: "https://arxiv.org/abs/2606.15134"
+arxiv: "https://arxiv.org/pdf/2606.15134"
 project: "https://shubhangb97.github.io/saga/"
 ---
 Vision encoders for retrieval are typically trained with class-label supervision: each

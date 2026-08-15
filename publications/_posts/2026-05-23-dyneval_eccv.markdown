@@ -4,7 +4,7 @@ date:   2026-05-23 22:21:59 +00:00
 image: /publications/images/dyneval-eccv-fig.png
 authors: "Shyam Marjit*, <strong>Dheeraj Baiju*</strong>, Anuj Shikarkhane, Akhil Sakthieswaran, Sayak Paul, Anirban Chakraborty."
 venue: "ECCV"
-arxiv: "https://arxiv.org/abs/2607.11199"
+arxiv: "https://arxiv.org/pdf/2607.11199"
 project: "https://vcl-iisc.github.io/dyneval/"
 code: "https://github.com/vcl-iisc/dyneval_code"
 ---
