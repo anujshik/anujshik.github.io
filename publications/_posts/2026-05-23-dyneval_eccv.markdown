@@ -2,7 +2,7 @@
 title:  "DynEval: Holistic Evaluations of T2I Generative Models in the Wild"
 date:   2026-05-23 22:21:59 +00:00
 image: /publications/images/dyneval-eccv-fig.png
-authors: "Shyam Marjit*, <strong>Dheeraj Baiju*</strong>, Anuj Shikarkhane, Akhil Sakthieswaran, Sayak Paul, Anirban Chakraborty."
+authors: "Shyam Marjit*, Dheeraj Baiju*, <strong>Anuj Shikarkhane*</strong>, Akhil Sakthieswaran, Sayak Paul, Anirban Chakraborty."
 venue: "ECCV"
 arxiv: "https://arxiv.org/pdf/2607.11199"
 project: "https://vcl-iisc.github.io/dyneval/"
