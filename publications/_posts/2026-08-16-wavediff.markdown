@@ -1,6 +1,6 @@
 ---
 title:  "WaveDiff: A Frequency-Aware Event-Based Video Frame Interpolation Model with Attention-based Latent Diffusion"
-date:   2025-06-24 22:21:59 +00:00
+date:   2026-08-16 22:21:59 +00:00
 image: 
 authors: "<strong>Anuj Shikarkhane</strong>, Tanmay Verlekar, Paulo Correia"
 venue: "Under Review, WACV"
